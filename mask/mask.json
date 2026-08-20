@@ -1,0 +1,9 @@
+[
+  {
+    "shape_attributes": {
+      "name": "polygon",
+      "all_points_x": [0, 100, 100, 0],
+      "all_points_y": [480, 480, 200, 200]
+    }
+  }
+]
